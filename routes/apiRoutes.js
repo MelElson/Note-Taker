@@ -27,11 +27,20 @@ module.exports = (app) => {
             })
         })
     });
-    app.delete('/api/notes: id', (req, res,) => {
+    app.delete('/api/notes/:id', (req, res,) => {
         fs.readFile("./db/db.json", "utf8", (err, data) => {
-            if (err) throw err;
-            notesData.length = 0;
-            res.json({ ok: true });
+            var id = req.parms.id
+            fs.writeFile("./db/db.json", jsonNotes, function (err) {
+                if (err) {
+                    return console.log(err);
+
+                }
+            });
+
+
+            // if (err) throw err;
+            // notesData.length = 0;
+            // res.json({ ok: true });
 
         });
 
