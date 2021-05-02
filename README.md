@@ -1,6 +1,6 @@
 # Note-Taker
 
-![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
@@ -54,12 +54,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
     
 
 ### Team Generator Screenshot
-![Changed HTML](./images/screenshotteamprofile.png)
+![Changed HTML](./Assets/screenshotnotetaker.png)
 
 ### Team Generator Input
-![Changed HTML](./images/screenshotteamprofileinput.png)
+![Changed HTML](./Assets/screenshotaddnote.png)
 
 ### Walkthrough
-![Demo of README](./images/TeamProfileWalkthrough.gif)
+![Demo of App](./images/Walkthrough.gif)
 
 
