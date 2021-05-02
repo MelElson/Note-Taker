@@ -27,7 +27,7 @@ The purpose of this task is to create an app that allows me to create and save n
 The site uses HTML, CSS code, Javascript,node,js, Inquirer, Express
 
 ## Installation
-* To access the website go to: https://github.com/MelElson/OOP-Team-Profile-Generator
+* To access the website go to: https://github.com/MelElson/Note-Taker
 * https://dry-sands-56365.herokuapp.com
 
 
